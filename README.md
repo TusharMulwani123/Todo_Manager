@@ -1,1 +1,1 @@
-DATABASE_URL=postgresql+asyncpg://postgres:Tushar@7271@localhost/todo_db
+DATABASE_URL=postgresql+asyncpg://postgres:Abc@123@localhost/todo_db
